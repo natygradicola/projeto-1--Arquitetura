@@ -5,4 +5,5 @@ Para avaliar as habilidades foi proposto um desafio de criar uma landing page pa
 Essa página é separada em 4 blocos, sendo; o menu superior, menu informacional, seção imagem e o formulário para capturar o nome e email do cliente.
 
 Link do site: https://projeto1arquitetura.netlify.app/
+
 Link da planilha: https://docs.google.com/spreadsheets/d/1ciC-5B1WaUm1be_mYHsmeGaY-C1eAKPdsuqqGbJ6MPc/edit?usp=sharing
